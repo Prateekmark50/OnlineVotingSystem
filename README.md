@@ -1,5 +1,6 @@
 # OnlineVotingSystem
 Install XAMPP or WAMPP.
+
 Open XAMPP Control panal and start [apache] and [mysql] .
 Download project from github(https://github.com/Prateekmark50/OnlineVotingSystem)
 Extract files in C:\xampp\htdocs.
